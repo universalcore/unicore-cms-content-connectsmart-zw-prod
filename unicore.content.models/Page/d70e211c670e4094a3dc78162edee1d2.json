@@ -6,12 +6,12 @@
   "primary_category": null, 
   "created_at": "2015-06-25T12:41:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-26T11:41:19.554040+00:00", 
+  "modified_at": "2015-07-17T13:38:53.345078+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "image": null, 
   "published": null, 
   "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "how-well-did-you-do-find-out-now", 
   "uuid": "d70e211c670e4094a3dc78162edee1d2"
 }
