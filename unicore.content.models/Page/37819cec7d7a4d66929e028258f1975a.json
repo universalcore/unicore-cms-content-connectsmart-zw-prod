@@ -10,14 +10,11 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "5597eb703fc649e4901df957db8f60d0", 
-    "c2003259fea44a63b2940a43196164f7"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "**Why do I need to create passwords for some of the websites I want to use?**\r\n\r\n- Passwords help to protect your private information and your email or social media accounts.\r\n- You should NOT share your passwords with anyone. \r\n- A strong and secure password should have letters, numbers and symbols.\r\n- Bad passwords are things like your name, your date of birth, or \u201c12345\u201d. This is because it is easy for someone to guess these and to hack into an account.\r\n- Don\u2019t use the same password for all your accounts.\r\n- Change your passwords every few months.\r\n", 
   "source": null, 
