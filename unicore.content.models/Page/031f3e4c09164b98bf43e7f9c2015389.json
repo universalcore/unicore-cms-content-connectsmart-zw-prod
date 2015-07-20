@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "4e530f1020f141bc847ecab926397b07", 
+    "d55349bcf71c49a39a8b085d148c6eff", 
+    "61325d4783294da59fdc131af439fda4"
+  ], 
   "id": null, 
   "content": "**Someone sent me a friend request - but I don\u2019t know this person, what should I do?**\r\n\r\n- Sometimes people want to network or make a lot of friends on social media so they send friend requests to people they don\u2019t know.\r\n- Before you accept a person you should have a look at their profile - try to see who they are. Do you have friends in common? Are you from the same town?\r\n- You do not have to accept the request if you don\u2019t feel comfortable sharing private information with the person. Don\u2019t feel pressured to do so.\r\n- Check your privacy settings so that this person does not see your private information if you don\u2019t want them to.\r\n- Remember also that sometimes people pretend to be someone they are not on the internet. \r\n", 
   "source": null, 
