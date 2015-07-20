@@ -4,14 +4,14 @@
   "language": "por_PT", 
   "title": "Voc\u00ea conhece a pessoa que est\u00e1 lhe adicionando?", 
   "primary_category": "29a0c33afc2a4956a766310b527195a4", 
-  "created_at": "2015-07-20T14:59:47.411754+00:00", 
+  "created_at": "2015-07-20T14:59:47+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-20T14:59:47.411978+00:00", 
+  "modified_at": "2015-07-20T15:09:37.939291+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "voce-conhece-pessoa-que-esta-lhe-adicionando", 
   "uuid": "4761eb910890405f9b7bb52a535fce76"
