@@ -6,12 +6,12 @@
   "primary_category": "29a0c33afc2a4956a766310b527195a4", 
   "created_at": "2015-07-20T19:07:22+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T11:06:54.755113+00:00", 
+  "modified_at": "2015-08-12T11:17:58.407711+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "eaa9e03df4424304876747b17abf7b39", 
   "published": null, 
-  "position": 4, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "respondendo-pedidos-de-fotos", 
   "uuid": "a5a8cddea1ad4b6290d541d074fec6fa"
