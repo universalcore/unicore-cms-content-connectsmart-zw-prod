@@ -6,12 +6,12 @@
   "primary_category": "29a0c33afc2a4956a766310b527195a4", 
   "created_at": "2015-07-20T19:02:28+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T11:05:16.552003+00:00", 
+  "modified_at": "2015-08-12T11:17:58.783243+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "1023f4a8ecdc4b3ea112743a3fcfca50", 
   "published": null, 
-  "position": 6, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "fotosconteudos-que-incomodam", 
   "uuid": "9510a28f75a44199bce4c26da1fe1444"
