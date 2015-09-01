@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "A internet pode me ajudar com os trabalhos escolares", 
+  "language": "por_PT", 
+  "title": "Usando a internet para projetos", 
+  "primary_category": "29a0c33afc2a4956a766310b527195a4", 
+  "created_at": "2015-07-20T19:09:04+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-08-12T11:17:58.208983+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "11fef5e117094604a080cbbf8fe846cb"
+  ], 
+  "id": null, 
+  "content": "**Eu estou fazendo uma pesquisa para um projeto da escola ou universidade. Como a internet pode me ajudar?**\r\n \r\n\u25cf     A internet tem um monte de informa\u00e7\u00f5es \u00fateis para trabalhos e projetos. Voc\u00ea pode come\u00e7ar usando uma ferramenta de busca ou a Wikip\u00e9dia e digitando palavras-chave que descrevem o que voc\u00ea procura.\r\n\r\n\u25cf     Se estiver procurando por informa\u00e7\u00f5es para a escola ou universidade, voc\u00ea deve sempre verificar quem escreveu as informa\u00e7\u00f5es (tamb\u00e9m conhecido como \u201cfonte\u201d ou \u201crefer\u00eancia\u201d).\r\n\r\n\u25cf     Boas fontes ou refer\u00eancias para projetos de escola ou universidade incluem: universidades, peri\u00f3dicos acad\u00eamicos, sites de grandes organiza\u00e7\u00f5es, relat\u00f3rios oficiais, etc.\r\n\r\n\u25cf     Mantenha a lista dos sites que voc\u00ea acessa para obter suas informa\u00e7\u00f5es.\r\n\r\n\u25cf     Voc\u00ea provavelmente precisar\u00e1 inclu\u00ed-los em uma lista chamada bibliografia junto com seu projeto.\r\n\r\n\u25cf     Verifique se a informa\u00e7\u00e3o \u00e9 atualizada. Pode haver informa\u00e7\u00e3o mais recente. Lembre-se estat\u00edsticas s\u00e3o atualizadas com frequ\u00eancia.\r\n\r\n\u25cf     Lembre-se de que nem tudo que voc\u00ea l\u00ea na internet \u00e9 verdade. Tome cuidado com a fonte consultada.\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "09b023edd02a41dc940b90a1844aa687", 
+  "published": null, 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "usando-internet-para-projetos", 
+  "uuid": "7f1a9ec893c04caeaccb5736c958b9bb"
+}

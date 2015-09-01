@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Ofertas de emprego na internet", 
+  "language": "por_PT", 
+  "title": "Essa oferta de emprego \u00e9 verdadeira?", 
+  "primary_category": "29a0c33afc2a4956a766310b527195a4", 
+  "created_at": "2015-07-20T14:58:57+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-08-12T11:17:59.376970+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9510a28f75a44199bce4c26da1fe1444"
+  ], 
+  "id": null, 
+  "content": "**Algu\u00e9m me enviou uma mensagem dizendo que tem um trabalho para mim. Disse para ir e conhec\u00ea-lo(a) pessoalmente. O que devo fazer?**\r\n\r\n - Voc\u00ea se candidatou a um emprego ou entrou em contato com algu\u00e9m para um emprego? Se n\u00e3o for o caso, este pode ser um golpe. Tenha cuidado.\r\n\r\n - Fa\u00e7a uma pesquisa sobre a empresa ou neg\u00f3cio. Pesquise na internet ou pergunte a seus amigos.\r\n\r\n - Voc\u00ea deve ter cuidado quando conhecer algu\u00e9m pela primeira vez se o(a) conheceu pela internet.\r\n\r\n - Escolha sempre um lugar p\u00fablico para se encontrar com algu\u00e9m (como um shopping center, por exemplo).\r\n\r\n - Conte sempre a um amigo ou membro da fam\u00edlia onde voc\u00ea est\u00e1 indo e com quem voc\u00ea est\u00e1 se encontrando.\r\n\r\n - \u00c9 ainda melhor se voc\u00ea pedir a um amigo ou membro da fam\u00edlia para lhe acompanhar.\r\n \r\nDicas de internet relacionadas:\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "42903152f5944c35a76f2ad099d0d545", 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "essa-oferta-de-emprego-e-verdadeira", 
+  "uuid": "d81487f7857d47ba9b2e5a21789c012f"
+}
