@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "71ca194558d8449696a67472e231d8e1", 
   "language": "fre_FR", 
-  "title": "Toutes les bonnes r\u00e9ponses !", 
+  "title": "Bonnes r\u00e9ponses !", 
   "image": null, 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "avoir-les-bonnes-reponses", 
