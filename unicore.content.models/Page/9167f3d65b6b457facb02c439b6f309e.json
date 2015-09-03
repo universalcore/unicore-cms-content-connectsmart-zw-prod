@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "Deviens un super utilisateur d\u2019Internet", 
   "primary_category": "61c7014b764a4b6681b35403e616d8dd", 
-  "created_at": "2015-09-03T13:05:56.202709+00:00", 
+  "created_at": "2015-09-03T13:05:56+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-03T13:05:56.202945+00:00", 
+  "modified_at": "2015-09-03T13:25:29.008338+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "fbee1c974691411381f5c1afcce220f9", 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "deviens-un-super-utilisateur-dinternet", 
   "uuid": "9167f3d65b6b457facb02c439b6f309e"
