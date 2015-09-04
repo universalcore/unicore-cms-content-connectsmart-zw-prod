@@ -2,16 +2,16 @@
   "subtitle": "", 
   "description": "Passe le test !", 
   "language": "fre_FR", 
-  "title": "Es-tu pr\u00eat \u00e0 utiliser l\u2019Internet ?", 
+  "title": "Es-tu pr\u00eat \u00e0 utiliser Internet ?", 
   "primary_category": "c2a1858c8cbc4d61ba58840a8100788b", 
   "created_at": "2015-09-03T13:12:57+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-03T13:30:39.311582+00:00", 
+  "modified_at": "2015-09-04T05:51:30.907825+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
