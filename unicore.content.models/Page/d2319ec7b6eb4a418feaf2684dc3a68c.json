@@ -6,12 +6,12 @@
   "primary_category": "fda4c754e49a457b9ada698d488eec3d", 
   "created_at": "2015-09-04T08:28:44+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-04T08:32:19.751903+00:00", 
+  "modified_at": "2015-09-15T05:31:43.441400+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 15, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "una-maswali-ambayo-unaona-aibu-sana-kuyauliza-kuhusu-intaneti-au-mitandao-ya-kijamii", 
   "uuid": "d2319ec7b6eb4a418feaf2684dc3a68c"
