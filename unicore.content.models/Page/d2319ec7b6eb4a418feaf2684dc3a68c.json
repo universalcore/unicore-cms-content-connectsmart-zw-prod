@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d3bd70fdebdc48bdbcbb2ecf91241ee2"
+  ], 
   "id": null, 
   "content": "Usijali  - tuko hapa kukusaidia. Connect Smart inakupatia majibu, taarifa pamoja na vidokezo muhimu vitakavyokusaidia kuondokana na matatizo wakati unapotumia intaneti. Tutatazama masuala kama vile maombi kutoka kwa mtu usiyemfahamu, wizi wa fedha kitapeli mtandaoni, na ulinzi wa siri zako mtandaoni. Aidha tunakupa ushauri kuhusu namna ya kutumia intaneti katika kukusaidia kwenye masomo au utafiti wako shuleni.\r\n \r\nConnect Smart imebuniwa mahususi kwa ajili ya wale wanaopenda kujifunza mambo ya msingi kuhusu usalama wa intaneti na mitandao ya kijamii. Zingatia kwamba endapo umewahi kupatwa na tukio baya sana mtandaoni au una wasiwasi kuhusu jambo fulani ni vyema ukamweleza mtu unayemwamini na kumuomba akusaidie. Katika nchi nyingi kuna namba za simu ambazo unaweza ukapiga bure ikiwa umri wako ni chini ya miaka 18 .\r\n \r\nJe uko tayari kujiunga connect smart?\r\n \r\nMada inayofuata:\r\n", 
   "source": null, 
