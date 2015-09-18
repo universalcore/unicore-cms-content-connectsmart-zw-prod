@@ -6,12 +6,12 @@
   "primary_category": "46e0b28f2dd94221ad0c0b8ddf1cbcf8", 
   "created_at": "2015-09-17T09:50:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-18T10:08:30.173175+00:00", 
+  "modified_at": "2015-09-18T10:18:52.413963+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "eb4a1c0cd7d243a8bd0329dd3b82c36e", 
   "published": null, 
-  "position": 17, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kak-otvechat-na-prosby-prislat-fotografii", 
   "uuid": "df6d6c39ada04bf58c5fb760b7a10152"
