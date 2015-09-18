@@ -6,12 +6,12 @@
   "primary_category": "46e0b28f2dd94221ad0c0b8ddf1cbcf8", 
   "created_at": "2015-09-18T08:12:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-18T10:04:01.518374+00:00", 
+  "modified_at": "2015-09-18T10:18:52.148803+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "1ea571566661472e88928ae0dc9ec42b", 
   "published": null, 
-  "position": 13, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "derzhite-eto-v-tajne", 
   "uuid": "10575e95b2bb481baadb58de8e973b12"
