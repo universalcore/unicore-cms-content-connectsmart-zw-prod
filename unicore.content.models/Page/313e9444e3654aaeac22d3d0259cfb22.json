@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": "\u00ab\u0421\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u043f\u0440\u0430\u0432\u0438\u043b \u0433\u0438\u0433\u0438\u0435\u043d\u044b \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044e\u00bb", 
   "primary_category": "5a2c6182866f4dea806bd7c2210d613f", 
-  "created_at": "2015-09-22T06:55:36.784559+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-09-22T06:55:36.784807+00:00", 
+  "created_at": "2015-09-22T06:55:36+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-22T16:58:02.896605+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "d369a48a14814ad888e002404d1b1479", 
   "published": null, 
-  "position": 0, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "soblyudenie-pravil-gigieny-pomogaet-zdorovyu", 
   "uuid": "313e9444e3654aaeac22d3d0259cfb22"
