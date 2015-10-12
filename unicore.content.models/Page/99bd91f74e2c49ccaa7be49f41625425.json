@@ -6,12 +6,12 @@
   "primary_category": "cf46f708a3034325887fdce3c7ebc338", 
   "created_at": "2015-09-18T09:08:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-18T09:13:32.603681+00:00", 
+  "modified_at": "2015-10-12T12:29:20.281141+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "d4c3a1e571e744e484e4bdf1e1414170", 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "akcha-utup-algandygyyz-zhnnd-bildir-alyp-atasyzby", 
   "uuid": "99bd91f74e2c49ccaa7be49f41625425"
