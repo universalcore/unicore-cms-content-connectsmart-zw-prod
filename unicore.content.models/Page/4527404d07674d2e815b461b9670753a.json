@@ -6,12 +6,12 @@
   "primary_category": "cf46f708a3034325887fdce3c7ebc338", 
   "created_at": "2015-09-18T09:06:16.117373+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-18T09:06:16.117634+00:00", 
+  "modified_at": "2015-10-12T12:29:20.442690+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "153985159cd94124a998e5d8a95a878f", 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "munu-ech-kimge-ajtpayz", 
   "uuid": "4527404d07674d2e815b461b9670753a"
