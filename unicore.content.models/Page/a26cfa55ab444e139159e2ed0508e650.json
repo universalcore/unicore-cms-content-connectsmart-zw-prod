@@ -5,13 +5,13 @@
   "title": "How Internet ready are you?", 
   "primary_category": "bfd0df6a9c8f4d5cb1920f4a5d9e12ff", 
   "created_at": "2015-06-25T12:36:01+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-08-24T14:23:49.516899+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:38:34.088799+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "7335dee16be144c5ac530950be727d7b", 
   "published": null, 
-  "position": 13, 
+  "position": 113, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-internet-ready-are-you", 
   "uuid": "a26cfa55ab444e139159e2ed0508e650"
