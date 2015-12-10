@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "10 choses que tout le monde doit savoir", 
+  "language": "fre_FR", 
+  "title": "Deviens un super utilisateur d\u2019Internet", 
+  "primary_category": "61c7014b764a4b6681b35403e616d8dd", 
+  "created_at": "2015-09-03T13:05:56+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-07T17:28:09.241495+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "921870bd149f4643b6fbef4fd59c3830"
+  ], 
+  "id": null, 
+  "content": "**Principaux conseils pour utiliser Internet & les r\u00e9seaux sociaux**\r\n              \r\n1. Respecte ce que les autres \u00e9crivent sur les r\u00e9seaux sociaux m\u00eame si tu n\u2019es pas d\u2019accord.\r\n\r\n2. Ne communique pas tes informations personnelles comme ton adresse, ton num\u00e9ro de t\u00e9l\u00e9phone ou tes informations bancaires. \r\n\r\n3. Fais attention quand tu ach\u00e8tes quelque chose en ligne \u2013 n\u2019ach\u00e8te que sur des sites dignes de confiance.\r\n\r\n4. M\u00e9fie-toi de tout ce qui est gratuit en ligne \u2013 c\u2019est peut-\u00eatre une arnaque. Ne t\u00e9l\u00e9charge qu\u2019\u00e0 partir de sites s\u00e9rieux. \r\n\r\n5. Rappelle-toi que m\u00eame les t\u00e9l\u00e9chargements gratuits peuvent te co\u00fbter de l\u2019argent parce qu\u2019ils utilisent des donn\u00e9es/du cr\u00e9dit de communication.\r\n\r\n6. Tu peux changer les param\u00e8tres de protection de ta vie priv\u00e9e sur les r\u00e9seaux sociaux pour contr\u00f4ler qui peut voir les informations et les photos que tu publies.\r\n\r\n7. Ne crois pas tout ce que tu lis en ligne la premi\u00e8re fois \u2013 cherche d\u2019autres articles, sites ou personnes de confiance pour confirmer que les informations sont v\u00e9ridiques.\r\n\r\n8. Tout le monde a droit \u00e0 une vie priv\u00e9e, toi-m\u00eame et les autres aussi. Ce n\u2019est pas bien de se connecter sur le compte de quelqu\u2019un d\u2019autre, d\u2019utiliser son t\u00e9l\u00e9phone ou son profil sans sa permission.\r\n\r\n9. Ne propage pas de rumeurs et ne partage pas d\u2019informations ou de photos blessantes ou embarrassantes. Ce qui peut te sembler dr\u00f4le risque d\u2019\u00eatre blessant pour autrui. \r\n\r\n10. R\u00e9fl\u00e9chis avant de cliquer sur \u00ab envoyer \u00bb - surtout si tu es bless\u00e9 ou en col\u00e8re. Une fois que tu as post\u00e9 une photo ou une vid\u00e9o, il n\u2019est pas facile de contr\u00f4ler ce qu\u2019il se passe et qui la voit.\r\n\r\n\r\nEnsuite, passe le test! : ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "fbee1c974691411381f5c1afcce220f9", 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "deviens-un-super-utilisateur-dinternet", 
+  "uuid": "9167f3d65b6b457facb02c439b6f309e"
+}

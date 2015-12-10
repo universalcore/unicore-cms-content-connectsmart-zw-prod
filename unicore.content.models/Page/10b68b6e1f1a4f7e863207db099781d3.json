@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Internet te puede ayudar en las tareas escolares\r\n", 
+  "language": "spa_ES", 
+  "title": "Uso de Internet en proyectos", 
+  "primary_category": "aff25fa42d514fddb81d31f561982ae4", 
+  "created_at": "2015-10-21T14:26:26+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-26T10:48:59.158764+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f50f678f98684002ab4cf31911740799"
+  ], 
+  "id": null, 
+  "content": "**Estoy investigando para un proyecto para la escuela o la universidad \u00bfc\u00f3mo puede ayudarme Internet en esta tarea?**\r\n\r\n- En Internet hay mucha informaci\u00f3n que puede ayudarte en tus tareas o en un proyecto. Puedes empezar utilizando un motor de b\u00fasqueda o la *Wikipedia* y escribiendo palabras clave que describan lo que quieres buscar.\r\n- Si buscas informaci\u00f3n para la escuela o la universidad debes comprobar siempre qui\u00e9n ha escrito dicha informaci\u00f3n (es decir, \u201cla fuente\u201d o \u201cla referencia\u201d).\r\n- Entre las fuentes o referencias fiables para los proyectos escolares o universitarios cabe se\u00f1alar las universidades, las revistas acad\u00e9micas, los sitios web de organizaciones grandes o los informes oficiales. \r\n- Haz una lista de los sitios web que consultas para obtener la informaci\u00f3n.\r\n- Probablemente necesitar\u00e1s incluir dichos sitios en tu proyecto en una lista denominada bibliograf\u00eda. \r\n- Una buena pr\u00e1ctica es incluir el nombre y los detalles de la fuente original en la bibliograf\u00eda consultada en los proyectos escolares o universitarios. \r\n- Comprueba la antig\u00fcedad de la informaci\u00f3n, dado que podr\u00eda haber informaci\u00f3n m\u00e1s reciente. Recuerda que algunos datos, como los datos estad\u00edsticos, cambian a menudo.\r\n- Recuerda que no todo lo que leas en Internet es fiable \u2013 ten cuidado a la hora de elegir la fuente.\r\n\r\nSiguiente consejo sobre Internet: \r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "1b9f7ac91bc44a8cad530548fc071758", 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "uso-de-internet-en-proyectos", 
+  "uuid": "10b68b6e1f1a4f7e863207db099781d3"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Learn why passwords are important", 
+  "language": "eng_GB", 
+  "title": "Keep it private ", 
+  "primary_category": "f46e27d149f44de599857ded1cd60958", 
+  "created_at": "2015-06-25T12:12:32+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:36:45.344744+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "031f3e4c09164b98bf43e7f9c2015389"
+  ], 
+  "id": null, 
+  "content": "**Why do I need to create passwords for some of the websites I want to use?**\r\n\r\n- Passwords help to protect your private information and your email or social media accounts.\r\n- You should NOT share your passwords with anyone. \r\n- A strong and secure password should have letters, numbers and symbols.\r\n- Bad passwords are things like your name, your date of birth, or \u201c12345\u201d. This is because it is easy for someone to guess these and to hack into an account.\r\n- Don\u2019t use the same password for all your accounts.\r\n- Change your passwords every few months.\r\n\r\nNext Internet tip: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "77883bf6eab44ec7bd1e05eea035dac2", 
+  "published": null, 
+  "position": 60, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "keep-it-private", 
+  "uuid": "37819cec7d7a4d66929e028258f1975a"
+}

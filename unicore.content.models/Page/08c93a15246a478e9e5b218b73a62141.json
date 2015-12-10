@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "The internet can help with school ", 
+  "language": "eng_GB", 
+  "title": "Using the internet for projects", 
+  "primary_category": "f46e27d149f44de599857ded1cd60958", 
+  "created_at": "2015-06-25T12:17:06+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:38:01.837828+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "c2003259fea44a63b2940a43196164f7"
+  ], 
+  "id": null, 
+  "content": "**I am doing research for a school/university project - how do I use the internet for this?**\r\n\r\n- The internet has a lot of information for assignments and projects. You can start off by using a search engine or Wikipedia, and typing in keywords that describe what you are look for.\r\n- If you are looking for information for school or university you should always check who wrote the information (also known as \u201cthe source\u201d or \u201creference\u201d).\r\n- Good sources/references for school/university projects include: universities, academic journals, websites of large organizations, official reports etc. \r\n- Keep a list of the websites you use to get your information.\r\n- You will probably need to include these in a list called a bibliography with your project. \r\n- As a best practice you should put the name and details of the original source in the bibliography for a school/university project. \r\n- Check how old the information is - newer information could be available. Remember that things like statistics change often.\r\n- Remember not everything that you read on the internet is true - be careful about what source you trust.\r\n\r\nNext Internet tip:", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "ec83fcd5a4024963970aa1d85d3fef0a", 
+  "published": null, 
+  "position": 66, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "using-internet-projects", 
+  "uuid": "08c93a15246a478e9e5b218b73a62141"
+}

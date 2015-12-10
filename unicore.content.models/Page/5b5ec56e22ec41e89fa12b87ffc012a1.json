@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Learn to recognize scams!", 
+  "language": "eng_GB", 
+  "title": "Receiving messages about winning money?", 
+  "primary_category": "f46e27d149f44de599857ded1cd60958", 
+  "created_at": "2015-06-25T11:48:31+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:35:55.553359+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "37819cec7d7a4d66929e028258f1975a"
+  ], 
+  "id": null, 
+  "content": "**I received a message from someone telling me I have won money or a prize - what should I do?**\r\n\r\n- If you use the internet you are very likely to get emails or a text messages telling you that you have won money, or a prize like a mobile phone or a holiday.\r\n- Or, sometimes these messages will say that someone needs your help to look after their money for them. \r\n- They will usually ask you for details like your bank account or ID number.\r\n- These messages are scams.\r\n- It is very unlikely that you have won something if you didn\u2019t enter a competition. \r\n- Don\u2019t click on links in emails from people you don\u2019t know. \r\n- Don\u2019t give your passwords or any personal information (like your ID number, address or bank details) to people you don\u2019t know. \r\n\r\nNext Internet tip: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "12bf09db7a05449a92e8aedfed6f6d71", 
+  "published": null, 
+  "position": 59, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "receiving-messages-about-winning-money", 
+  "uuid": "5b5ec56e22ec41e89fa12b87ffc012a1"
+}

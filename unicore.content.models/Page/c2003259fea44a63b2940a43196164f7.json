@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "A few suggestions for parents", 
+  "language": "eng_GB", 
+  "title": "Talking to children about internet safety?", 
+  "primary_category": "f46e27d149f44de599857ded1cd60958", 
+  "created_at": "2015-06-25T12:16:01+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:38:16.642465+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5597eb703fc649e4901df957db8f60d0"
+  ], 
+  "id": null, 
+  "content": "**My children use the internet and social media and I am worried - what should I do?**\r\n\r\n- The best thing to do is to talk to your children so you can understand what they are using the internet and social media for.\r\n- Ask them about the websites they use and what they use them for. Ask them what they like about using the internet and what they don\u2019t like.\r\n- Talk to them about what they think is good and bad behaviour on the internet and social media.\r\n- It is important to have open communication so that your children will feel comfortable telling you about what they do online and if they are upset about something that has happened to them.\r\n- Ask your children to help you learn more about using the internet. Many children are very good at using the internet and can help you learn.\r\n\r\nNext Internet tip: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "a4cf4f1c072f4cc4bbc930ecaae86d9c", 
+  "published": null, 
+  "position": 67, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "talking-children-about-internet-safety", 
+  "uuid": "c2003259fea44a63b2940a43196164f7"
+}

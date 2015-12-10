@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "f46e27d149f44de599857ded1cd60958", 
+  "language": "eng_GB", 
+  "title": "Get Answers", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "get-answers", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

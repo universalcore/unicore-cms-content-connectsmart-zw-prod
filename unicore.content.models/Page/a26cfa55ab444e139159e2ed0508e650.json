@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Take the test!", 
+  "language": "eng_GB", 
+  "title": "How Internet ready are you?", 
+  "primary_category": "bfd0df6a9c8f4d5cb1920f4a5d9e12ff", 
+  "created_at": "2015-06-25T12:36:01+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-26T13:38:34.088799+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "d70e211c670e4094a3dc78162edee1d2"
+  ], 
+  "id": null, 
+  "content": "**Answer all questions by Yes or No - Mark your responses on a paper and go at the bottom of this article to find out the good answers!**\r\n\r\n**Question 1.**  Someone is making fun of me on social media, is it OK to strike back? (Answer YES or NO)\r\n\r\n**Question 2.** I logged in my friend account for only 2 minutes to have a look at their messages, is it OK? (Answer YES or NO)\r\n\r\n**Question 3.** Someone is posting inappropriate messages on social media, is it OK to report them? \r\n(Answer YES or NO)\r\n\r\n**Question 4.** I have met someone on the Internet and he/she is inviting me to come to his/her place, is it OK for me to go? (Answer YES or NO)\r\n\r\n**Question 5.** Are messages about winning money on the internet scams ? \r\n(Answer YES or NO)\r\n\r\n**Question 6.** I have received a message from someone I don\u2019t know with a link, should I click on it to find out what it is? (Answer YES or NO)\r\n\r\n**Question 7.** Is it OK to share my password if it\u2019s only with my best friend? (Answer YES or NO)\r\n\r\n**Question 8.** Is it OK to reuse information from the Internet for a school project ? (Answer YES or NO)\r\n\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "7335dee16be144c5ac530950be727d7b", 
+  "published": null, 
+  "position": 113, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-internet-ready-are-you", 
+  "uuid": "a26cfa55ab444e139159e2ed0508e650"
+}

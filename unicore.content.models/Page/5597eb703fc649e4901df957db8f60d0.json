@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "10 things everyone should know", 
+  "language": "eng_GB", 
+  "title": "Become a top Internet user", 
+  "primary_category": "e58260da67eb443fbbc59839c6578eb1", 
+  "created_at": "2015-06-25T12:29:44+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-11-26T13:59:00.832692+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a26cfa55ab444e139159e2ed0508e650"
+  ], 
+  "id": null, 
+  "content": "**Top tips for using the internet & social media**\r\n\r\n 1. Respect what other people are saying on social media, even if you do not agree with them.\r\n 2. Don't share personal information like your address, phone number or bank details. \r\n 3. Be careful when buying something online - only buy from trustworthy websites.\r\n 4. Be careful of anything that is free online - this could be a scam. Only download from websites that are trustworthy. \r\n 5. Remember even free downloads can cost you money because they use data/ airtime.\r\n 6. You can change the privacy settings on your social media platforms to help you control who sees your information and photos.\r\n 7. Don\u2019t believe everything you read online the first time - search for other trustworthy articles, websites or people to see what they are saying.\r\n 8. You have the right to privacy - and so do others. It is not okay to log into other people\u2019s accounts or to use their phones or profiles without their permission.\r\n 9. Don\u2019t spread rumors or post/share hurtful or embarrassing stories or photos.Things that may seem funny can hurt someone. \r\n 10. Think twice before you click \u2018send\u2019 - especially if you\u2019re upset or angry. Once you share a photo or a video it is hard to control what happens to it and who sees it.\r\n\r\nNext: \r\n\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "d68c42a5f41f4e93a28358c4af002adf", 
+  "published": null, 
+  "position": 113, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "become-top-internet-user", 
+  "uuid": "5597eb703fc649e4901df957db8f60d0"
+}

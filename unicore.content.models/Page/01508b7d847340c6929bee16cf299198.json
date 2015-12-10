@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Voil\u00e0 ce que tu peux faire !", 
+  "language": "fre_FR", 
+  "title": "Photos/contenu qui te d\u00e9rangent", 
+  "primary_category": "71ca194558d8449696a67472e231d8e1", 
+  "created_at": "2015-09-03T12:53:33+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-04T05:42:42.056048+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a74cec13e8e5482391cde26bc05854f2"
+  ], 
+  "id": null, 
+  "content": "**J\u2019ai vu un message ou une photo sur un r\u00e9seau social qui m\u2019a contrari\u00e9(e)  - que dois-je faire ?**\r\n\r\n- Si tu connais la personne qui a post\u00e9 ce commentaire ou cette photo, tu peux lui envoyer un message ou lui parler face \u00e0 face pour expliquer pourquoi le message ou la photo t\u2019a heurt\u00e9(e) ou offens\u00e9(e).\r\n\r\n- Tu peux aussi \u00ab ne plus suivre \u00bb, \u00ab retirer de la liste d\u2019amis \u00bb ou \u00ab bloquer \u00bb la personne pour ne plus voir ses messages. Cette possibilit\u00e9 existe sur la plupart des r\u00e9seaux sociaux. Sur Facebook tu peux cliquer sur le profil de la personne et choisir \u00ab bloquer \u00bb. Ainsi, la personne ne pourra plus t\u2019envoyer de message \u00e0 partir de ce compte.\r\n\r\n- Sur plusieurs plateformes, il est possible de signaler un message ou une photo qui va \u00e0 l\u2019encontre des normes communautaires du r\u00e9seau social. Sur Facebook, on peut notamment signaler le harc\u00e8lement, la violence graphique et les spams. Utilise l\u2019onglet \u00ab signaler \u00bb \u00e0 c\u00f4t\u00e9 du message ou de la photo.\r\n\r\n- Tu peux aussi signaler des personnes qui ne respectent pas les r\u00e8gles de Facebook en te connectant sur leur profil et en cliquant sur \u00ab signaler \u00bb.\r\n\r\nConseil Internet suivant : ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "11a0c0a54d0348d8b2d8ae33bd07369c", 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "photoscontenu-qui-te-derange", 
+  "uuid": "01508b7d847340c6929bee16cf299198"
+}

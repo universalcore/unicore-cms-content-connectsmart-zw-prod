@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Do you have questions about the internet or social media that you\u2019re too embarrassed to ask?", 
+  "primary_category": "41f03e0dfcb54dc38cc824a2eb53ee2d", 
+  "created_at": "2015-06-25T12:05:51+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-30T09:18:16.903582+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "5b5ec56e22ec41e89fa12b87ffc012a1"
+  ], 
+  "id": null, 
+  "content": "Do you have questions about the internet or social media that you\u2019re too embarrassed to ask? Don\u2019t worry - we\u2019re here to help you. Connect Smart brings you answers, information, and helpful tips to help you stay out of trouble when you use the internet. We look at issues like friend requests from strangers, money scams, and protecting your privacy online. We also give you advice on how to use the internet to help you with your school work or studies. \r\n\r\nConnect Smart is designed for anyone who is interested in learning the basics about internet safety and social media. Remember that if you\u2019ve had a very bad experience online or you are worried about something you should talk to someone you trust and try to get help. In many countries there are free telephone numbers that you can call if you are younger than 18 years old.\r\n\r\nAre you ready to connect smart?\r\n\r\nNext article:", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-you-have-questions-about-internet-or-social-media-youre-too-embarrassed-ask", 
+  "uuid": "7f798b8e72024feba3a4d7a9e5c8baa0"
+}

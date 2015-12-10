@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Passe le test !", 
+  "language": "fre_FR", 
+  "title": "Es-tu pr\u00eat \u00e0 utiliser Internet ?", 
+  "primary_category": "c2a1858c8cbc4d61ba58840a8100788b", 
+  "created_at": "2015-09-03T13:12:57+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-04T05:51:30.907825+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "533727b8b4aa4a4083ed9101b8b170ab"
+  ], 
+  "id": null, 
+  "content": "**R\u00e9ponds \u00e0 toutes les questions par Oui ou par Non \u2013 Note tes r\u00e9ponses sur une feuille de papier et v\u00e9rifie \u00e0 la fin de l\u2019article pour conna\u00eetre les bonnes r\u00e9ponses !** \r\n\r\n\r\n**Question 1)** \r\n\r\nQuelqu\u2019un se moque de moi sur les r\u00e9seaux sociaux, ai-je raison de r\u00e9agir ? (R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 2)** \r\n\r\nJe me suis connect\u00e9 sur le compte de mon copain juste pendant deux minutes pour jeter un coup d\u2019\u0153il \u00e0 ses messages, ai-je bien fait ? (R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 3)** \r\n\r\nQuelqu\u2019un publie des messages inappropri\u00e9s sur les r\u00e9seaux sociaux, est-ce bien de le signaler ?\r\n(R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 4)** \r\n\r\nJ\u2019ai rencontr\u00e9 quelqu\u2019un sur Internet et cette personne m\u2019invite chez elle, puis-je y aller ? (R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 5)**\r\n \r\nLes messages sur Internet disant qu\u2019on a gagn\u00e9 de l\u2019argent sont-ils tous des arnaques ? \r\n(R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 6)** \r\n\r\nJ\u2019ai re\u00e7u un message de quelqu\u2019un que je ne connais pas avec un Iien, dois-je cliquer sur le lien pour savoir de quoi il s\u2019agit ? (R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 7)**\r\n\r\nPuis-je donner mon mot de passe, si c\u2019est seulement \u00e0 mon meilleur ami ? (R\u00e9ponds par OUI ou par NON)\r\n\r\n**Question 8)**\r\n\r\n Puis-je utiliser des informations trouv\u00e9es sur Internet pour un projet scolaire ? (R\u00e9ponds par OUI ou par NON)", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "ad0dd1a855e54d27b049140de8000d93", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-tu-pret-utiliser-linternet", 
+  "uuid": "921870bd149f4643b6fbef4fd59c3830"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Apprendre pourquoi les mots de passe sont importants", 
+  "language": "fre_FR", 
+  "title": "Prot\u00e9ger sa vie priv\u00e9e ", 
+  "primary_category": "71ca194558d8449696a67472e231d8e1", 
+  "created_at": "2015-09-03T12:46:28+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-04T05:40:27.403388+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "82c839d3510945d5be2ffc126917cfa2"
+  ], 
+  "id": null, 
+  "content": "Pourquoi dois-je cr\u00e9er un mot de passe pour certains des sites que je veux utiliser ?\r\n\r\n- Les mots de passe permettent de prot\u00e9ger tes informations personnelles, ainsi que tes comptes de messagerie et de r\u00e9seaux sociaux.\r\n\r\n- Il ne faut donner son mot de passe \u00e0 personne. \r\n\r\n- Un mot de passe s\u00fbr comporte des lettres, des chiffres et des symboles.\r\n\r\n- Les mauvais mots de passe sont, par exemple, ton nom, ta date de naissance ou \u00ab 12345 \u00bb car ils sont faciles \u00e0 deviner pour pirater ton compte.\r\n\r\n- N\u2019utilise pas le m\u00eame mot de passe pour tous les comptes.\r\n\r\n- Change ton mot de passe tous les quelques mois.\r\n\r\nConseil Internet suivant :", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "bced9b9848d04fb69642c14849622370", 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "proteger-sa-vie-privee", 
+  "uuid": "f4c8d89772ba48af9e311b04b984e1aa"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "Respondemos a las preguntas m\u00e1s frecuentes sobre el uso de las redes sociales e Internet.", 
+  "primary_category": "f13fbfd4d86c4ef598d48026966aa275", 
+  "created_at": "2015-10-21T12:27:45+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-22T08:43:15.737914+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "27cd616b17024b5288a94900ab4d18b0"
+  ], 
+  "id": null, 
+  "content": "\u00bfTe gustar\u00eda hacer algunas preguntas acerca de Internet o las redes sociales pero no te atreves? No te preocupes: estamos aqu\u00ed para ayudarte. *Connect Smart* te ofrece respuestas, informaci\u00f3n y consejos \u00fatiles que te ayudar\u00e1n a evitar problemas cuando utilices Internet. Abordamos cuestiones como las solicitudes de amistad enviadas por personas extra\u00f1as, las estafas monetarias y la protecci\u00f3n de tu privacidad en l\u00ednea. Tambi\u00e9n te aconsejamos sobre c\u00f3mo Internet puede ayudarte en tus tareas escolares o en tus estudios. \r\n\r\n*Connect Smart* va destinado a toda persona interesada en conocer los fundamentos de la seguridad en Internet y las redes sociales. Recuerda que si has tenido una mala experiencia en l\u00ednea o te preocupa algo, deber\u00edas cont\u00e1rselo a alguien de confianza y pedir ayuda. En muchos pa\u00edses existen n\u00fameros de tel\u00e9fono gratuitos a los que pueden llamar los menores de 18 a\u00f1os.\r\n\r\n\u00bfEst\u00e1s preparado para utilizar *Connect Smart*?\r\n\r\nArt\u00edculo siguiente:\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "respondemos-las-preguntas-mas-frecuentes-sobre-el-uso-de-las-redes-sociales-e-internet", 
+  "uuid": "7d7a27f2afea4c83a0d07c77c0fae760"
+}

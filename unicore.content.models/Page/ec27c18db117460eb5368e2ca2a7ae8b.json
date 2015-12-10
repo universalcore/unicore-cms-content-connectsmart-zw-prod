@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Realiza el test\r\n", 
+  "language": "spa_ES", 
+  "title": "\u00bfEst\u00e1s preparado para utilizar Internet?", 
+  "primary_category": "90c78e12b6324334927902d521c7c425", 
+  "created_at": "2015-10-21T19:55:08+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-10-26T10:46:18.045689+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9ff356ceb36246f6b8c4403fb1a6fdc4"
+  ], 
+  "id": null, 
+  "content": "Responde S\u00ed o No a todas las preguntas \u2013 Marca las respuestas en un papel y ve al final de este art\u00edculo para ver las respuestas correctas \r\n\r\n\r\n**Pregunta 1)**  \r\nAlguien se est\u00e1 burlando de m\u00ed en las redes sociales, \u00bfdeber\u00eda responder haciendo lo mismo? (Responde S\u00cd o NO)  \r\n**Pregunta 2)**   \r\nMe he conectado a la cuenta de mi amigo durante solo 2 minutos para echar un vistazo a sus mensajes \u00bfes correcto lo que he hecho? (Responde S\u00cd o NO)  \r\n**Pregunta 3)**   \r\nAlguien est\u00e1 publicando mensajes inapropiados en las redes sociales, \u00bfdebo denunciarlo?   \r\n(Responde S\u00cd o NO)  \r\n**Pregunta 4)**  \r\nHe conocido a alguien en Internet y ahora me invita a ir a su casa \u00bfDebo ir? (Responde S\u00cd o NO)  \r\n**Pregunta 5)**   \r\n\u00bfSon una estafa los mensajes en los que te comunican que has ganado dinero en Internet? (Responde S\u00cd o NO)  \r\n**Pregunta 6)**   \r\nHe recibido un mensaje de alguien a quien no conozco con un enlace \u00bfdebo pinchar en el enlace para averiguar de qu\u00e9 se trata? (Responde S\u00cd o NO)  \r\n**Pregunta 7)**   \r\n\u00bfDebo facilitar mi contrase\u00f1a a mi mejor amigo? (Responde S\u00cd o NO)  \r\n**Pregunta 8)**  \r\n\u00bfPuedo reutilizar informaci\u00f3n de Internet para un proyecto escolar? (Responde S\u00cd o NO)\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "35a41a6342924eef821a3b7f45f3ef01", 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "estas-preparado-para-utilizar-internet", 
+  "uuid": "ec27c18db117460eb5368e2ca2a7ae8b"
+}
